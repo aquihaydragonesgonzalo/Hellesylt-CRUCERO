@@ -1,0 +1,7 @@
+{
+  "name": "Hellesylt CRUCERO",
+  "description": "Interactive tourist guide for Hellesylt and Geiranger 2026 with itinerary, map, and budget tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
